@@ -12,7 +12,7 @@ a {
 
 .yellow_text {
   color: yellow;
-  font-size: 40px;	
+  font-size: 40px;
 } 
 
 #header {
@@ -42,7 +42,7 @@ h1 {
   margin-left: 0px;	
 }
 
-p {
+p { 
   font-size: 25px;
 }
 
@@ -51,18 +51,17 @@ img {
 }
 
 * {
-  box-sizing: border-box;
-}  
-  
+	box-sizing: border-box;
+}
+
 .column {
-  float: left;
-  width: 33.33&
-  padding: 5px; 
-}  
+	float: right;
+	width: 33.33%;
+	padding: 5px;
 
 .row::after {
-  content: "";
-  display: table;
-  clear: both;
-}  
+	content: "";
+	display: table;
+	clear: both;
+}
 /* This is a comment */
