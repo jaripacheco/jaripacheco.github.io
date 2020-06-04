@@ -26,10 +26,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
-  background-color: #012a79;
-}
-
 .active {
   background-color: #012a79;
 }
