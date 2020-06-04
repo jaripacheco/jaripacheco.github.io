@@ -26,11 +26,13 @@ li a {
   text-decoration: none;
 }
 
-.active {
-  background-color: #4CAF50;
+li a:hover:not(.active) {
+  background-color: #012a79;
 }
 
-
+.active {
+  background-color: #012a79;
+}
 
 a {
   color: white;
@@ -95,4 +97,5 @@ img {
 	display: table;
 	clear: both;
 }
+	
 /* Made and owned by Jari Pacheco */
