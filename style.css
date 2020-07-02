@@ -41,17 +41,14 @@ a {
 }
 
 .yellow_text {
-  color: yellow;
-  font-size: 50px;
-  text-decoration: none;
-  text-align: center;
-  display: block;
-} 
-
-#header {
-  background-color: #012a79;
-  padding: 20px;
-  margin-bottom: 13px;
+    color: yellow;
+    font-size: 50px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    background-color: #012a79;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
 #main_content {
